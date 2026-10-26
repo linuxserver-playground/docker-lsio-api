@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-alpine:edge
+FROM ghcr.io/linuxserver-playground/baseimage-alpine:edge
 
 ARG BUILD_DATE
 ARG VERSION
