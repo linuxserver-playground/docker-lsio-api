@@ -1,6 +1,7 @@
 # The manifest for docker-lsio-api. Schema: https://github.com/linuxserver-playground/builder/blob/main/schemas/image.schema.json
 schema: 1
 name: lsio-api
+kind: tool
 
 summary: lsio-api container image.
 
